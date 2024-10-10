@@ -19,7 +19,7 @@ function GrapesjsSetup() {
   return (
     <div className="flex h-screen w-screen flex-col">
       {/* Toolbar with Save Button */}
-      <div className="flex items-center justify-between bg-gray-800 p-4 shadow-lg">
+      <div className="flex items-center justify-between bg-gray-800 p-1 shadow-lg">
         <h1 className="text-lg font-bold text-white"></h1>
         <button
           className="rounded bg-blue-600 px-4 py-2 font-bold text-white hover:bg-blue-700"
